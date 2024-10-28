@@ -61,5 +61,4 @@ To set up this project on your local machine, follow these steps:
    Okay! Tell me somthing, and I will tell you what language you are speaking! :)
    ```
    - You can then input some phrase in any of the trained languages and it will output what it thinks is the correct answer:
-   - 
 </div>
